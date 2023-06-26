@@ -723,7 +723,7 @@ footer .inner .foot-news ul li i {
 }
 .contact-form form input,
 form textarea{
-  width: 100%;
+  width: 50%;
   padding: 20px;
   outline: none;
   background:#fff;
@@ -734,7 +734,7 @@ form textarea{
 }
 .contact-form textarea{
   resize: none;
-  height: 200px;
+  height: 100px;
 }
 .contact-form form .send{
   display: inline-block;
