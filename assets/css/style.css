@@ -752,3 +752,7 @@ form textarea{
   transform: translatex(10px);
   cursor: pointer;
 }
+
+.center-image {
+  text-align: center;
+}
