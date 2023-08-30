@@ -756,3 +756,9 @@ form textarea{
 .center-image {
   text-align: center;
 }
+
+.center-table {
+  text-align: center;
+  margin: 0 auto;
+}
+
